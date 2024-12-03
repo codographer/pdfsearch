@@ -1,0 +1,3 @@
+venv/
+search_cache/
+*.pyc
